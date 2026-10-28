@@ -32,8 +32,5 @@ cask "tildaz" do
 
     Then grant Input Monitoring and Device Control and Data Access
     (Accessibility before macOS 27) in System Settings > Privacy & Security.
-
-    To get new versions with a plain `brew upgrade`, trust this tap once:
-      brew trust ensky0/tildaz
   EOS
 end

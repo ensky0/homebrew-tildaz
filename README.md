@@ -8,12 +8,6 @@
 brew install --cask ensky0/tildaz/tildaz
 ```
 
-To get new versions with a plain `brew upgrade`, trust this tap once:
-
-```sh
-brew trust ensky0/tildaz
-```
-
 TildaZ is signed with a self-signed certificate and is not notarized. If macOS blocks the first launch, run:
 
 ```sh
